@@ -1,0 +1,9 @@
+gymnasium==0.29.1
+stable-baselines3[extra]
+networkx
+langchain
+langchain-google-genai
+pulp
+pandas
+numpy
+matplotlib
